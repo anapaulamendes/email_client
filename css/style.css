@@ -1,0 +1,17 @@
+body {
+  background-color: #e0cffc;
+}
+
+.container {
+  height: 300px;
+  margin-top: 100px;
+}
+
+.card {
+  width: 25rem;
+  height: 300px;
+}
+
+.user {
+  margin: auto;
+}
