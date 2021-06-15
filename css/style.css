@@ -1,5 +1,6 @@
 body {
   background-color: #e0cffc;
+  height: 1000px;
 }
 
 .container {
@@ -14,4 +15,11 @@ body {
 
 .user {
   margin: auto;
+}
+
+#email_list {
+  height: 1000px;
+  margin-top: 50px;
+  margin-left: -250px;
+  width: 1000px;
 }
